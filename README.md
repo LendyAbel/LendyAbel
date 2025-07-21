@@ -1,54 +1,39 @@
-# 👋 ¡Hola! Soy Lendy Abel
+# 👋 Hi! I'm Lendy Abel
 
-## ⚡ Ingeniero eléctrico y programador autodidacta
+## ⚡ Electrical Engineer & Self-Taught Programmer
 
-¡Bienvenido a mi perfil de GitHub! Soy Ingeniero eléctrico con pasión por la tecnología y la programación. Aunque mi formación es en ingeniería, he aprendido a programar de manera autodidacta, explorando y desarrollando proyectos que puedes encontrar aquí en mi perfil.
+Welcome to my GitHub profile! I am an electrical engineer passionate about technology and programming. Although my background is in engineering, I have taught myself to code, exploring and developing projects that you can find here on my profile.
 
 ---
 
-## 🛠️ Tecnologías y habilidades principales
+## 🛠️ Main Technologies & Skills
 
 - **Frontend:** React, JavaScript, HTML, CSS, Tailwind
 - **Backend:** Express, MongoDB, AWS
-- **Otras pasiones:** Automatización, integración y diseño de interfaces
+- **Other passions:** Automation, integration, and interface design
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
-Mis proyectos públicos reflejan mi aprendizaje, curiosidad y ganas de resolver problemas reales. ¡Te invito a explorarlos y dejar tus comentarios!
-
----
-
-## 🎮 Intereses y hobbies
-
-- Tecnología y nuevas tendencias
-- Ciencia ficción (¡fan de los futuros posibles!)
-- Videojuegos y cultura geek
+My public projects reflect my learning journey, curiosity, and desire to solve real-world problems. I invite you to explore them and leave your feedback!
 
 ---
 
-## 🌐 Conecta conmigo
+## 🎮 Interests & Hobbies
+
+- Technology and new trends
+- Science fiction (fan of possible futures!)
+- Video games and geek culture
+
+---
+
+## 🌐 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/lendy-abel-sánchez-vázquez)
 
 ---
 
-## 💡 "La mejor forma de aprender es creando"
+## 💡 "The best way to learn is by creating"
 
-_Siempre dispuesto a colaborar, aprender y compartir. Si te interesa algún proyecto o tienes alguna idea, ¡no dudes en contactarme!_
-
-<!--
-**LendyAbel/LendyAbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Always willing to collaborate, learn, and share. If you're interested in any project or have an idea, don't hesitate to contact me!_
